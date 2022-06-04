@@ -1,0 +1,4 @@
+com\dkoryagin\clients\notification\NotificationClient.class
+com\dkoryagin\clients\fraud\FraudClient.class
+com\dkoryagin\clients\fraud\FraudCheckResponse.class
+com\dkoryagin\clients\notification\NotificationRequest.class

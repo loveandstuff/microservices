@@ -1,0 +1,8 @@
+com\dkoryagin\customer\model\Customer$CustomerBuilder.class
+com\dkoryagin\customer\model\CustomerRegistrationRequest.class
+com\dkoryagin\customer\CustomerConfig.class
+com\dkoryagin\customer\model\Customer.class
+com\dkoryagin\customer\service\CustomerService.class
+com\dkoryagin\customer\repository\CustomerRepository.class
+com\dkoryagin\customer\controller\CustomerController.class
+com\dkoryagin\customer\CustomerApplication.class

@@ -1,0 +1,6 @@
+com\dkoryagin\fraud\controller\FraudController.class
+com\dkoryagin\fraud\model\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\dkoryagin\fraud\service\FraudCheckService.class
+com\dkoryagin\fraud\repository\FraudCheckHistoryRepository.class
+com\dkoryagin\fraud\FraudApplication.class
+com\dkoryagin\fraud\model\FraudCheckHistory.class

@@ -1,0 +1,8 @@
+com\dkoryagin\notification\repository\NotificationRepository.class
+com\dkoryagin\notification\service\NotificationService.class
+com\dkoryagin\notification\NotificationApplication.class
+com\dkoryagin\notification\model\Notification.class
+com\dkoryagin\notification\config\NotificationConfig.class
+com\dkoryagin\notification\controller\NotificationController.class
+com\dkoryagin\notification\rabbitmq\NotificationConsumer.class
+com\dkoryagin\notification\model\Notification$NotificationBuilder.class

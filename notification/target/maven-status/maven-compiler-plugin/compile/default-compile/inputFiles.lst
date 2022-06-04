@@ -1,0 +1,7 @@
+D:\IDEA PROJECTS\amigoscode-k8s\amigos-k8s\notification\src\main\java\com\dkoryagin\notification\config\NotificationConfig.java
+D:\IDEA PROJECTS\amigoscode-k8s\amigos-k8s\notification\src\main\java\com\dkoryagin\notification\repository\NotificationRepository.java
+D:\IDEA PROJECTS\amigoscode-k8s\amigos-k8s\notification\src\main\java\com\dkoryagin\notification\rabbitmq\NotificationConsumer.java
+D:\IDEA PROJECTS\amigoscode-k8s\amigos-k8s\notification\src\main\java\com\dkoryagin\notification\service\NotificationService.java
+D:\IDEA PROJECTS\amigoscode-k8s\amigos-k8s\notification\src\main\java\com\dkoryagin\notification\controller\NotificationController.java
+D:\IDEA PROJECTS\amigoscode-k8s\amigos-k8s\notification\src\main\java\com\dkoryagin\notification\model\Notification.java
+D:\IDEA PROJECTS\amigoscode-k8s\amigos-k8s\notification\src\main\java\com\dkoryagin\notification\NotificationApplication.java
